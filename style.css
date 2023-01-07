@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(pink,skyblue,pink);
+}
+.container{
+    margin:30vh 80vh;
+    font-size: large;
+    font-weight:bold;
+    background-color:white;
+    padding:20px 40px;
+    text-align: center;
+    box-shadow: 10px 10px 20px black;
+}
+#btn{
+    margin:10px;
+    margin-left:15%;
+    background-color: plum;
+    margin:auto;
+    margin-top:20px;
+}
+.feedback{
+    display:none;
+}
+.show{
+    display:block;
+}
+#res{
+    color:green;
+}
